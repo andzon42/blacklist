@@ -125,3 +125,7 @@
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 yugava.uk
+0.0.0.0 www.jellyroute.com
+0.0.0.0 www.bfhqteipdh.com
+0.0.0.0 voledevice-pa.googleapis.com
+0.0.0.0 safebrowsing.googleapis.com
