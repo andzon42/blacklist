@@ -129,3 +129,4 @@
 0.0.0.0 www.bfhqteipdh.com
 0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 www.toolsoftheday.com
